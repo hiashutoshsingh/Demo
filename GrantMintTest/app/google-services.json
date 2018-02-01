@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "28054281169",
+    "firebase_url": "https://auth-cfcd3.firebaseio.com",
+    "project_id": "auth-cfcd3",
+    "storage_bucket": "auth-cfcd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28054281169:android:738853f6c6d93bb5",
+        "android_client_info": {
+          "package_name": "granmint.auth.grantminttest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28054281169-72j7pc1cbgqu66c9q0ntilphd8h2sg90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMHTbEL6ur0HroM8TIVaEo7bQr5kypvys"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

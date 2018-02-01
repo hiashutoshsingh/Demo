@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FreedomTest</string>
+    <string name="text_walking">Looks like you\'re walking!</string>
+    <string name="text_start_walking">You\'re starting to walk</string>
+    <string name="text_stopping">You\'re coming to a halt</string>
+    <string name="text_still">You\'ve stopped walking</string>
+</resources>
