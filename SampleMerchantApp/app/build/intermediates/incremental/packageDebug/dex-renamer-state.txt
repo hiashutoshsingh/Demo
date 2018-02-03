@@ -1,0 +1,4 @@
+#Sat Feb 03 16:00:29 IST 2018
+base.0=/media/ashu/a196f447-b40a-4a42-bbc9-43cd1f93d0fa1/ashu/Paytm_Android_App_Kit-master/SampleMerchantApp/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/media/ashu/a196f447-b40a-4a42-bbc9-43cd1f93d0fa1/ashu/Paytm_Android_App_Kit-master/SampleMerchantApp/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/media/ashu/a196f447-b40a-4a42-bbc9-43cd1f93d0fa1/ashu/Paytm_Android_App_Kit-master/SampleMerchantApp/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/media/ashu/a196f447-b40a-4a42-bbc9-43cd1f93d0fa1/ashu/Paytm_Android_App_Kit-master/SampleMerchantApp/app/src/debug/jniLibs"/></dataSet></merger>

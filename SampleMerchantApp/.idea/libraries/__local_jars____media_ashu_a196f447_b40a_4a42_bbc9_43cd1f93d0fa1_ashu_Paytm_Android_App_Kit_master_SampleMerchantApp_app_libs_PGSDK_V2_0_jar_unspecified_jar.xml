@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="__local_jars__:/media/ashu/a196f447-b40a-4a42-bbc9-43cd1f93d0fa1/ashu/Paytm_Android_App_Kit-master/SampleMerchantApp/app/libs/PGSDK_V2.0.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/PGSDK_V2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

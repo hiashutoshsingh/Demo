@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/media/ashu/a196f447-b40a-4a42-bbc9-43cd1f93d0fa1/ashu/Paytm_Android_App_Kit-master/SampleMerchantApp/app/libs/PGSDK_V2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ac7573d38f31559f8f027eb698769d3ebad40b64">
+        <dex dex="/media/ashu/a196f447-b40a-4a42-bbc9-43cd1f93d0fa1/ashu/Paytm_Android_App_Kit-master/SampleMerchantApp/app/build/intermediates/pre-dexed/debug/PGSDK_V2.0_3a739e43504f87ebb5b994dc4a53f2a275bec4e8.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Sat Feb 03 16:00:29 IST 2018
+1.base=/media/ashu/a196f447-b40a-4a42-bbc9-43cd1f93d0fa1/ashu/Paytm_Android_App_Kit-master/SampleMerchantApp/app/build/intermediates/res/resources-debug.ap_
+4.file=/media/ashu/a196f447-b40a-4a42-bbc9-43cd1f93d0fa1/ashu/Paytm_Android_App_Kit-master/SampleMerchantApp/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+1.file=/media/ashu/a196f447-b40a-4a42-bbc9-43cd1f93d0fa1/ashu/Paytm_Android_App_Kit-master/SampleMerchantApp/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+4.set=ANDROID_RESOURCE
+2.base=/media/ashu/a196f447-b40a-4a42-bbc9-43cd1f93d0fa1/ashu/Paytm_Android_App_Kit-master/SampleMerchantApp/app/build/intermediates/res/resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=/media/ashu/a196f447-b40a-4a42-bbc9-43cd1f93d0fa1/ashu/Paytm_Android_App_Kit-master/SampleMerchantApp/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+count=5
+1.set=ANDROID_RESOURCE
+3.base=/media/ashu/a196f447-b40a-4a42-bbc9-43cd1f93d0fa1/ashu/Paytm_Android_App_Kit-master/SampleMerchantApp/app/build/intermediates/res/resources-debug.ap_
+0.set=DEX
+0.base=/media/ashu/a196f447-b40a-4a42-bbc9-43cd1f93d0fa1/ashu/Paytm_Android_App_Kit-master/SampleMerchantApp/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+3.file=/media/ashu/a196f447-b40a-4a42-bbc9-43cd1f93d0fa1/ashu/Paytm_Android_App_Kit-master/SampleMerchantApp/app/build/intermediates/res/resources-debug.ap_/res/layout/merchantapp.xml
+0.file=/media/ashu/a196f447-b40a-4a42-bbc9-43cd1f93d0fa1/ashu/Paytm_Android_App_Kit-master/SampleMerchantApp/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+4.base=/media/ashu/a196f447-b40a-4a42-bbc9-43cd1f93d0fa1/ashu/Paytm_Android_App_Kit-master/SampleMerchantApp/app/build/intermediates/res/resources-debug.ap_

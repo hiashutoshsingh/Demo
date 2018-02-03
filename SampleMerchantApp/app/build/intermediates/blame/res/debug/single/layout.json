@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/deependra_testing_team/Documents/Appkits/android/UpdatedSDKWithoutGCandVC/pgsdk-web-based-android/SampleMerchantApp/app/build/intermediates/res/merged/debug/layout/merchantapp.xml",
+        "source": "/Users/deependra_testing_team/Documents/Appkits/android/UpdatedSDKWithoutGCandVC/pgsdk-web-based-android/SampleMerchantApp/app/src/main/res/layout/merchantapp.xml"
+    },
+    {
+        "merged": "/Users/deependra_testing_team/Documents/Updated App Kits/Android/SampleMerchantApp/app/build/intermediates/res/merged/debug/layout/merchantapp.xml",
+        "source": "/Users/deependra_testing_team/Documents/Updated App Kits/Android/SampleMerchantApp/app/src/main/res/layout/merchantapp.xml"
+    },
+    {
+        "merged": "/Users/deependra_testing_team/Documents/GITHUB-PaytmPayments/Paytm_Android_App_Kit/SampleMerchantApp/app/build/intermediates/res/merged/debug/layout/merchantapp.xml",
+        "source": "/Users/deependra_testing_team/Documents/GITHUB-PaytmPayments/Paytm_Android_App_Kit/SampleMerchantApp/app/src/main/res/layout/merchantapp.xml"
+    },
+    {
+        "merged": "/Users/jitendrasingh/development/pgsdk-webbased/pgsdk-web-based-android/SampleMerchantApp/app/build/intermediates/res/merged/debug/layout/merchantapp.xml",
+        "source": "/Users/jitendrasingh/development/pgsdk-webbased/pgsdk-web-based-android/SampleMerchantApp/app/src/main/res/layout/merchantapp.xml"
+    },
+    {
+        "merged": "/media/ashu/a196f447-b40a-4a42-bbc9-43cd1f93d0fa1/ashu/Paytm_Android_App_Kit-master/SampleMerchantApp/app/build/intermediates/res/merged/debug/layout/merchantapp.xml",
+        "source": "/media/ashu/a196f447-b40a-4a42-bbc9-43cd1f93d0fa1/ashu/Paytm_Android_App_Kit-master/SampleMerchantApp/app/src/main/res/layout/merchantapp.xml"
+    }
+]
